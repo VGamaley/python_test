@@ -1,2 +1,5 @@
 print("Hellow, world!")
-print("Привіт, новий комміт!")
+print()
+print("Привіт,\n \\Світ!\\")
+print("new text")
+
